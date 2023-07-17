@@ -1,2 +1,10 @@
 # Vintage_MacOS_AppIcons
- 拟物化Mac App 图标
+老版本 Mac App 图标
+
+### 提取 / 安装 方法
+https://www.bilibili.com/video/BV1c3411w7Ud
+
+### 搜索技巧
+xxx mac -> 按时间查找 -> big sur 全面普及之前（2021）
+
+### 欢迎提交
